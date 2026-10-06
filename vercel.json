@@ -2,6 +2,26 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
-    { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] }
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/reservar",
+      "destination": "https://calendar.app.google/jAWiXbuMA2pQXPar5",
+      "permanent": false
+    },
+    {
+      "source": "/reservar/",
+      "destination": "https://calendar.app.google/jAWiXbuMA2pQXPar5",
+      "permanent": false
+    }
   ]
 }
