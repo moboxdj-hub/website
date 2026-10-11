@@ -4,30 +4,48 @@
 
 - Web: https://bassroomdjschool.com/
 - Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. Base en Granada (España). Clases en grupo online y VIP 1 a 1, presencial u online. Horario de España.
-- Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
+- Niveles: inicial (desde cero, sin experiencia previa), intermedio y avanzado.
 - Software: Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos funcionan prácticamente igual y podrás seguir las clases sin ningún problema.
 - Contacto: moboxdj@gmail.com
 - Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir plan). Se empieza cuando se quiera.
 
 ## Planes y precios
 
-- Membresía grupal online: 65 €/mes. Grupo reducido, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
+- Membresía grupal online: 65 €/mes. Grupo reducido y por niveles, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
 - VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial u online.
 - VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial u online.
 - Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
 
-## Temario: base (temas 1-7) y nivel avanzado (tema 8)
+## Temario por niveles: inicial (temas 1-4), intermedio (temas 5-7) y avanzado (temas 8-10)
+
+Las clases en grupo se organizan por niveles: cada alumno entra en el que le corresponde (se decide en la llamada informativa).
+
+### Nivel inicial (temas 1-4)
+
+Para quien empieza desde cero. Conoces el equipo, entiendes la música y preparas tu software.
 
 1. La cabina y el equipo
 2. Pulso, tempo y BPM
 3. Descarga musical
 4. Rekordbox
+
+### Nivel intermedio (temas 5-7)
+
+Para quien ya conoce el equipo. Aprendes a mezclar con soltura, a construir una sesión y a grabarla.
+
 5. Primera mezcla
 6. Preparar una sesión y psicología de pista
-7. Grabación de tu primera sesión (60 minutos): hito de la base
-8. Nivel avanzado: stems, samplers, trucos de mezcla, retos en directo y capas de 3 y 4 pistas
+7. Grabación de tu primera sesión
 
-Recorrido: la base (temas 1-7) termina con un hito, grabar tu primera sesión de 60 minutos; con eso ya sabes pinchar. Después, el nivel avanzado (tema 8) va mucho más lejos.
+### Nivel avanzado (temas 8-10)
+
+Para quien ya pincha y quiere ir más allá. Técnicas de cabina profesional y sesiones con identidad propia.
+
+8. Stems y samplers
+9. Mezcla por capas y trucos de cabina
+10. Sesiones avanzadas y retos en directo
+
+Recorrido: el nivel intermedio termina con la grabación de tu primera sesión de 60 minutos (tema 7); con eso ya sabes pinchar. El nivel avanzado (temas 8-10) va mucho más lejos.
 
 ## Mentora
 
@@ -37,7 +55,7 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 
 - [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, planes y preguntas frecuentes.
 - [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online en directo, para alumnos de cualquier país hispanohablante; temario y precios.
-- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión, online desde cualquier lugar.
+- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino por niveles, online desde cualquier lugar.
 - [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial u online; el grupo es online.
 - [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, planes y precios.
 
@@ -56,10 +74,12 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 - Tema 02. Pulso, tempo y BPM: Localizar y sentir el pulso de un tema; beats, barras y frases; estructura musical.
 - Tema 03. Descarga musical: Tipos de archivos de audio y dónde y cómo descargar música de alta calidad.
 - Tema 04. Rekordbox: Interfaz, configuración, importación y exportación musical.
-- Tema 05. Primera mezcla: Estructura de los tracks, sincronización de BPM (beatmatching), uso de la EQ y tipos de mezcla, con el oído como base.
+- Tema 05. Primera mezcla: Estructura de los tracks, sincronización de BPM (beatmatching), EQ, técnica y tipos de mezcla, con el oído como guía.
 - Tema 06. Preparar una sesión y psicología de pista: Crear una sesión coherente según el lugar, la pista y el público, y aprender a leer la pista.
-- Tema 07. Grabación de tu primera sesión: Grabas tu primera sesión de 60 minutos, guiada por Mobox. Hito de la base: ya sabes pinchar.
-- Tema 08. Nivel avanzado: Stems, samplers, trucos de mezcla, retos en directo y trabajo por capas de 3 y 4 pistas.
+- Tema 07. Grabación de tu primera sesión: Grabas tu primera sesión de 60 minutos, guiada por Mobox. Cierra el nivel intermedio: ya sabes pinchar.
+- Tema 08. Stems y samplers: Separar voces, bases y percusiones para crear mezclas nuevas en directo, y usar samplers para efectos, loops y sonidos propios.
+- Tema 09. Mezcla por capas y trucos de cabina: Trabajo con 3 y 4 pistas a la vez, transiciones complejas y trucos de mezcla.
+- Tema 10. Sesiones avanzadas y retos en directo: Sesiones con distintas energías y curvas para llevar al público, y retos en directo para ganar rapidez, creatividad y seguridad.
 
 ## Metodología
 
@@ -70,22 +90,22 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 ## Preguntas frecuentes: Inicio
 
 **¿Para quién es?**
-Para cualquier persona que hable español, en España o en cualquier otro país. Empiezas con la base, cuyo hito es grabar tu primera sesión de 60 minutos, y después el nivel avanzado te lleva mucho más lejos.
+Para cualquier persona que hable español, en España o en cualquier otro país, tanto si empiezas desde cero como si ya pinchas. El curso tiene tres niveles: inicial, intermedio y avanzado.
 
 **¿Necesito experiencia previa?**
-No. Empiezas desde cero: la cabina, el equipo y tu primera mezcla, paso a paso. Si ya pinchas, en la llamada vemos desde qué punto te conviene entrar.
+No. El nivel inicial empieza desde cero: la cabina, el equipo y el pulso de la música, paso a paso. Si ya pinchas, entras en el intermedio o el avanzado; lo vemos en la llamada.
 
 **¿Qué necesito para empezar?**
 Un equipo básico: controladora, cascos y ordenador; más adelante, unos altavoces. Recomendamos AlphaTheta (Pioneer DJ), la marca con la que se trabaja en clase, aunque no es obligatoria. Al principio todo es más teórico, así que antes de comprar nada lo mejor es preguntarlo en la llamada.
 
 **¿Cómo son las clases en grupo?**
-La membresía grupal es online, en grupo reducido: un día a la semana, hora y media. En directo puedes preguntar, pausar y seguir la guía paso a paso. En cada bloque presentas ejercicios, mezclas y selecciones, y tu mentora los revisa en la propia clase (ecualización, mezcla y estructura). Hay un chat grupal.
+Son online, en grupos reducidos organizados por nivel: un día a la semana, hora y media. En directo puedes preguntar, pausar y seguir la guía paso a paso. En cada bloque presentas ejercicios, mezclas y selecciones, y tu mentora los revisa en la propia clase (ecualización, mezcla y estructura). Hay un chat grupal.
 
 **¿Qué pasa si no puedo asistir en directo?**
 La clase queda grabada y subida a la web, y puedes verla cuando quieras. El acceso a las grabaciones es permanente: la videoteca no tiene límite.
 
 **¿Qué se trabaja en el temario?**
-Arrancas con la base: la cabina y el equipo, pulso y BPM, descarga de música, Rekordbox, la primera mezcla y cómo preparar una sesión y leer la pista. Su hito es grabar tu primera sesión de 60 minutos. Después, el nivel avanzado: stems, samplers, trucos de mezcla, retos en directo y capas de 3 y 4 pistas. Tienes el temario completo en la guía del alumno (PDF).
+Diez temas en tres niveles. Inicial: la cabina y el equipo, pulso y BPM, descarga de música y Rekordbox. Intermedio: la primera mezcla, cómo preparar una sesión y leer la pista, y la grabación de tus primeros 60 minutos. Avanzado: stems y samplers, capas con 3 y 4 pistas, trucos de cabina, sesiones con distintas energías y retos en directo. Tienes el temario completo en la guía del alumno (PDF).
 
 **¿Qué planes hay y cuánto cuestan?**
 Membresía grupal: 65 € al mes, con pago por Stripe. VIP quincenal: 130 € al mes, una sesión 1 a 1 cada dos semanas. VIP mensual: 230 € al mes, una sesión 1 a 1 cada semana. El 1 a 1 puede ser presencial u online, con plazas muy limitadas.
@@ -102,7 +122,7 @@ Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos fun
 ## Preguntas frecuentes: Curso de DJ online
 
 **¿Necesito experiencia previa?**
-No. El curso empieza desde cero, con la cabina y el equipo, y progresa por niveles hasta las técnicas de mezcla más complejas. Si ya pinchas, en la llamada vemos de dónde partes. Más información en aprender a ser DJ desde cero.
+No. El nivel inicial empieza desde cero, con la cabina y el equipo, y el curso progresa hasta las técnicas de mezcla más complejas. Si ya pinchas, entras en el intermedio o el avanzado; lo vemos en la llamada. Más información en aprender a ser DJ desde cero.
 
 **¿Puedo apuntarme si no vivo en España?**
 Sí. El curso es online y en español, así que puedes seguirlo desde cualquier país. Solo necesitas conexión a internet, Rekordbox (u otro software de DJ) e, idealmente, un controlador. Las clases son en horario de España y quedan grabadas.
@@ -122,7 +142,7 @@ Cuando quieras. Primero reserva una llamada informativa gratuita con Mónica: no
 ## Preguntas frecuentes: Aprender a ser DJ desde cero
 
 **¿Puedo empezar sin ninguna experiencia?**
-Sí. El curso está pensado para empezar desde cero, sin experiencia previa: el primer tema es la cabina y el equipo, y el segundo, el pulso, el tempo y el BPM.
+Sí. El nivel inicial está pensado para empezar desde cero, sin experiencia previa: el primer tema es la cabina y el equipo, y el segundo, el pulso, el tempo y el BPM.
 
 **¿Necesito comprar equipo antes de empezar?**
 No de inmediato: las primeras clases son más teóricas. Después necesitarás controladora, cascos y ordenador. Recomendamos AlphaTheta (Pioneer DJ), aunque no es obligatoria. Antes de comprar nada, coméntalo en la llamada informativa.
@@ -131,7 +151,7 @@ No de inmediato: las primeras clases son más teóricas. Después necesitarás c
 Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos funcionan prácticamente igual y podrás seguir las clases sin ningún problema.
 
 **¿Cuál es la meta del curso?**
-Grabar tu primera sesión de 60 minutos: con eso ya sabes pinchar. Después, el nivel avanzado te lleva mucho más lejos: stems, samplers, trucos de mezcla, retos en directo y capas de 3 y 4 pistas.
+Grabar tu primera sesión de 60 minutos, al final del nivel intermedio: con eso ya sabes pinchar. Después, el avanzado te lleva mucho más lejos: stems, samplers, capas de 3 y 4 pistas, trucos de cabina y retos en directo.
 
 ## Preguntas frecuentes: Clases de DJ en Granada
 

@@ -4,30 +4,48 @@
 
 - Web: https://bassroomdjschool.com/
 - Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. Base en Granada (España). Clases en grupo online y VIP 1 a 1, presencial u online. Horario de España.
-- Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
+- Niveles: inicial (desde cero, sin experiencia previa), intermedio y avanzado.
 - Software: Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos funcionan prácticamente igual y podrás seguir las clases sin ningún problema.
 - Contacto: moboxdj@gmail.com
 - Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir plan). Se empieza cuando se quiera.
 
 ## Planes y precios
 
-- Membresía grupal online: 65 €/mes. Grupo reducido, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
+- Membresía grupal online: 65 €/mes. Grupo reducido y por niveles, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
 - VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial u online.
 - VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial u online.
 - Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
 
-## Temario: base (temas 1-7) y nivel avanzado (tema 8)
+## Temario por niveles: inicial (temas 1-4), intermedio (temas 5-7) y avanzado (temas 8-10)
+
+Las clases en grupo se organizan por niveles: cada alumno entra en el que le corresponde (se decide en la llamada informativa).
+
+### Nivel inicial (temas 1-4)
+
+Para quien empieza desde cero. Conoces el equipo, entiendes la música y preparas tu software.
 
 1. La cabina y el equipo
 2. Pulso, tempo y BPM
 3. Descarga musical
 4. Rekordbox
+
+### Nivel intermedio (temas 5-7)
+
+Para quien ya conoce el equipo. Aprendes a mezclar con soltura, a construir una sesión y a grabarla.
+
 5. Primera mezcla
 6. Preparar una sesión y psicología de pista
-7. Grabación de tu primera sesión (60 minutos): hito de la base
-8. Nivel avanzado: stems, samplers, trucos de mezcla, retos en directo y capas de 3 y 4 pistas
+7. Grabación de tu primera sesión
 
-Recorrido: la base (temas 1-7) termina con un hito, grabar tu primera sesión de 60 minutos; con eso ya sabes pinchar. Después, el nivel avanzado (tema 8) va mucho más lejos.
+### Nivel avanzado (temas 8-10)
+
+Para quien ya pincha y quiere ir más allá. Técnicas de cabina profesional y sesiones con identidad propia.
+
+8. Stems y samplers
+9. Mezcla por capas y trucos de cabina
+10. Sesiones avanzadas y retos en directo
+
+Recorrido: el nivel intermedio termina con la grabación de tu primera sesión de 60 minutos (tema 7); con eso ya sabes pinchar. El nivel avanzado (temas 8-10) va mucho más lejos.
 
 ## Mentora
 
@@ -37,7 +55,7 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 
 - [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, planes y preguntas frecuentes.
 - [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online en directo, para alumnos de cualquier país hispanohablante; temario y precios.
-- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión, online desde cualquier lugar.
+- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino por niveles, online desde cualquier lugar.
 - [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial u online; el grupo es online.
 - [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, planes y precios.
 - [Versión ampliada de este archivo](https://bassroomdjschool.com/llms-full.txt)
