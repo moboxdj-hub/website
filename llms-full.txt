@@ -3,8 +3,7 @@
 > Escuela de DJ online en español, para alumnos de España y de cualquier país hispanohablante, con base en Granada. La dirige la DJ granadina Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones.
 
 - Web: https://bassroomdjschool.com/
-- Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. La membresía grupal es siempre online (también para quien vive en Granada). El VIP 1 a 1 puede ser online (desde cualquier lugar) o presencial en Granada (España), donde tiene su base la escuela; es la única opción presencial.
-- Horario: las clases en directo son en horario de España y quedan grabadas.
+- Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. Base en Granada (España). Clases en grupo online y VIP 1 a 1, presencial u online. Horario de España.
 - Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
 - Software: Rekordbox.
 - Contacto: moboxdj@gmail.com
@@ -13,8 +12,8 @@
 ## Formatos y precios
 
 - Membresía grupal online: 65 €/mes. Grupo reducido, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
-- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, online o presencial en Granada.
-- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, online o presencial en Granada.
+- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial u online.
+- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial u online.
 - Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
 
 ## Temario (8 temas + proyecto final)
@@ -39,7 +38,7 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 - [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, formatos y preguntas frecuentes.
 - [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online en directo, para alumnos de cualquier país hispanohablante; temario y precios.
 - [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión, online desde cualquier lugar.
-- [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial en Granada (también disponible online, para cualquiera); el grupo es siempre online.
+- [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial u online; el grupo es online.
 - [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, formatos y precios.
 
 ## Redes de Mobox
@@ -87,7 +86,7 @@ La clase queda grabada y subida a la web, y puedes verla cuando quieras. El acce
 Ocho temas: la cabina y el equipo, pulso y BPM, descarga de música, Rekordbox, la primera mezcla, cómo preparar una sesión y leer la pista, la grabación de tu primera sesión y un nivel avanzado con stems, samplers, trucos, retos en directo y capas de 3 y 4 pistas. El proyecto final es grabar una sesión de 60 minutos. Tienes el temario completo en la guía del alumno (PDF).
 
 **¿Qué formatos hay y cuánto cuestan?**
-Membresía grupal: 65 € al mes, con pago por Stripe. VIP quincenal: 130 € al mes, una sesión 1 a 1 cada dos semanas. VIP mensual: 230 € al mes, una sesión 1 a 1 cada semana. El 1 a 1 puede ser online o presencial en Granada, con plazas muy limitadas.
+Membresía grupal: 65 € al mes, con pago por Stripe. VIP quincenal: 130 € al mes, una sesión 1 a 1 cada dos semanas. VIP mensual: 230 € al mes, una sesión 1 a 1 cada semana. El 1 a 1 puede ser presencial u online, con plazas muy limitadas.
 
 **¿Qué incluye el VIP además de la sesión 1 a 1?**
 WhatsApp para dudas puntuales, con respuesta en 24-48 horas; una playlist curada según tu estilo; grabación de tus sesiones con tu mentora; ayuda con el press kit; recomendación directa para actuaciones; y acceso gratuito e ilimitado a las clases grupales. Es el mismo paquete en los dos planes VIP.
@@ -104,7 +103,7 @@ Con Rekordbox. El tema 04 cubre la interfaz, la configuración y la importación
 No. El curso empieza desde cero, con la cabina y el equipo, y avanza por niveles hasta técnicas avanzadas de mezcla. Si ya pinchas, en la llamada vemos de dónde partes. Más información en aprender a ser DJ desde cero.
 
 **¿Puedo apuntarme si no vivo en España?**
-Sí. El curso es online y en español, así que puedes seguirlo desde cualquier parte de España, desde Latinoamérica o desde cualquier otro país. Solo necesitas conexión a internet, Rekordbox e, idealmente, un controlador. Las clases en directo son en horario de España y quedan grabadas. La membresía grupal es siempre online y el VIP 1 a 1 también puede ser online; solo la modalidad presencial del VIP es en Granada.
+Sí. El curso es online y en español, así que puedes seguirlo desde cualquier país. Solo necesitas conexión a internet, Rekordbox e, idealmente, un controlador. Las clases son en horario de España y quedan grabadas.
 
 **¿Qué pasa si no puedo conectarme el día de la clase?**
 La clase queda grabada y subida a la web, y puedes verla cuando quieras. El acceso a las grabaciones es permanente.
@@ -135,7 +134,7 @@ Grabar una sesión de 60 minutos como proyecto final. Después, el tema 08 te ll
 ## Preguntas frecuentes: Clases de DJ en Granada
 
 **¿Hay clases de DJ presenciales en Granada?**
-Sí, en el formato VIP 1 a 1: las sesiones individuales pueden ser presenciales en Granada u online, como prefieras. Es la única opción presencial: la membresía grupal es siempre online, también si vives en Granada. Las plazas VIP son muy limitadas.
+Sí, en el formato VIP 1 a 1: las sesiones individuales pueden ser presenciales en Granada u online, como prefieras. Las clases en grupo son online. Las plazas VIP son muy limitadas.
 
 **¿Puedo combinar clases presenciales y online?**
 Sí. Los dos planes VIP incluyen acceso gratuito e ilimitado a las clases grupales online, así que puedes tener tu sesión 1 a 1 en Granada y seguir además la clase semanal del grupo.
