@@ -5,11 +5,11 @@
 - Web: https://bassroomdjschool.com/
 - Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. Base en Granada (España). Clases en grupo online y VIP 1 a 1, presencial u online. Horario de España.
 - Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
-- Software: Trabajamos con Rekordbox, el estándar de las cabinas. Si usas otro programa (Serato, Traktor, VirtualDJ...), no pasa nada: funcionan prácticamente igual y podrás seguir las clases sin problema.
+- Software: Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos funcionan prácticamente igual y podrás seguir las clases sin ningún problema.
 - Contacto: moboxdj@gmail.com
-- Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir formato). Se empieza cuando se quiera.
+- Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir plan). Se empieza cuando se quiera.
 
-## Formatos y precios
+## Planes y precios
 
 - Membresía grupal online: 65 €/mes. Grupo reducido, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
 - VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial u online.
@@ -35,11 +35,11 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 
 ## Páginas
 
-- [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, formatos y preguntas frecuentes.
+- [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, planes y preguntas frecuentes.
 - [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online en directo, para alumnos de cualquier país hispanohablante; temario y precios.
 - [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión, online desde cualquier lugar.
 - [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial u online; el grupo es online.
-- [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, formatos y precios.
+- [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, planes y precios.
 - [Versión ampliada de este archivo](https://bassroomdjschool.com/llms-full.txt)
 
 ## Redes de Mobox
