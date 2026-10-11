@@ -1,0 +1,51 @@
+# BASSROOM DJs School
+
+> Escuela de DJ en Granada y online, dirigida por la DJ granadina Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones. Clases en español.
+
+- Web: https://bassroomdjschool.com/
+- Dónde: Granada (España) para las clases presenciales VIP 1 a 1; online para cualquier persona que hable español.
+- Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
+- Software: Rekordbox.
+- Contacto: moboxdj@gmail.com
+- Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir formato). Se empieza cuando se quiera.
+
+## Formatos y precios
+
+- Membresía grupal online: 65 €/mes. Grupo reducido, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
+- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial en Granada u online.
+- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial en Granada u online.
+- Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
+
+## Temario (8 temas + proyecto final)
+
+1. La cabina y el equipo
+2. Pulso, tempo y BPM
+3. Descarga musical
+4. Rekordbox
+5. Primera mezcla
+6. Preparar una sesión y psicología de pista
+7. Grabación de tu primera sesión
+8. Nivel avanzado: stems, samplers, trucos de mezcla, retos en directo y capas de 3 y 4 pistas
+
+Proyecto final: grabar una sesión de 60 minutos.
+
+## Mentora
+
+Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, nacida en Granada (Albaicín). Más de 14 años en salas y festivales; ocho años como residente en Sala Vogue Granada. Ha tocado en Mad Cool Festival 2023, Granada Sound 2024, Cooltural Fest (2025) y En Órbita Fest. Estilos: house, techno, melodic house, acid house y world music, con formato híbrido de percusión en vivo. Co-creadora de Ecstatic Dance Granada desde 2021. Primer single: The Silence (2025).
+
+## Páginas
+
+- [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, formatos y preguntas frecuentes.
+- [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial en Granada y grupo online.
+- [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online, temario y precios.
+- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión.
+- [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, formatos y precios.
+- [Versión ampliada de este archivo](https://bassroomdjschool.com/llms-full.txt)
+
+## Redes de Mobox
+
+- Instagram: https://www.instagram.com/moboxdj/
+- SoundCloud: https://soundcloud.com/moboxdj
+- YouTube: https://www.youtube.com/@moboxdj
+- Mixcloud: https://www.mixcloud.com/Moboxdj/
+- Linktree: https://linktr.ee/mobox
