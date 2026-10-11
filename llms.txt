@@ -1,9 +1,10 @@
 # BASSROOM DJs School
 
-> Escuela de DJ en Granada y online, dirigida por la DJ granadina Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones. Clases en español.
+> Escuela de DJ online en español, para alumnos de España y de cualquier país hispanohablante, con base en Granada. La dirige la DJ granadina Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones.
 
 - Web: https://bassroomdjschool.com/
-- Dónde: Granada (España) para las clases presenciales VIP 1 a 1; online para cualquier persona que hable español.
+- Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. La membresía grupal es siempre online (también para quien vive en Granada). La única opción presencial es el VIP 1 a 1, en Granada (España), donde tiene su base la escuela.
+- Horario: las clases en directo son en horario de España y quedan grabadas.
 - Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
 - Software: Rekordbox.
 - Contacto: moboxdj@gmail.com
@@ -12,8 +13,8 @@
 ## Formatos y precios
 
 - Membresía grupal online: 65 €/mes. Grupo reducido, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
-- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial en Granada u online.
-- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial en Granada u online.
+- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, online o presencial en Granada.
+- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, online o presencial en Granada.
 - Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
 
 ## Temario (8 temas + proyecto final)
@@ -36,9 +37,9 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 ## Páginas
 
 - [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, formatos y preguntas frecuentes.
-- [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial en Granada y grupo online.
-- [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online, temario y precios.
-- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión.
+- [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online en directo, para alumnos de cualquier país hispanohablante; temario y precios.
+- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión, online desde cualquier lugar.
+- [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial en Granada (la única opción presencial); el grupo es online.
 - [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, formatos y precios.
 - [Versión ampliada de este archivo](https://bassroomdjschool.com/llms-full.txt)
 

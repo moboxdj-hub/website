@@ -1,9 +1,10 @@
 # BASSROOM DJs School
 
-> Escuela de DJ en Granada y online, dirigida por la DJ granadina Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones. Clases en español.
+> Escuela de DJ online en español, para alumnos de España y de cualquier país hispanohablante, con base en Granada. La dirige la DJ granadina Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones.
 
 - Web: https://bassroomdjschool.com/
-- Dónde: Granada (España) para las clases presenciales VIP 1 a 1; online para cualquier persona que hable español.
+- Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. La membresía grupal es siempre online (también para quien vive en Granada). La única opción presencial es el VIP 1 a 1, en Granada (España), donde tiene su base la escuela.
+- Horario: las clases en directo son en horario de España y quedan grabadas.
 - Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
 - Software: Rekordbox.
 - Contacto: moboxdj@gmail.com
@@ -12,8 +13,8 @@
 ## Formatos y precios
 
 - Membresía grupal online: 65 €/mes. Grupo reducido, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
-- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial en Granada u online.
-- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial en Granada u online.
+- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, online o presencial en Granada.
+- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, online o presencial en Granada.
 - Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
 
 ## Temario (8 temas + proyecto final)
@@ -36,9 +37,9 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 ## Páginas
 
 - [Inicio](https://bassroomdjschool.com/): qué es la escuela, mentora, formatos y preguntas frecuentes.
-- [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial en Granada y grupo online.
-- [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online, temario y precios.
-- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión.
+- [Curso de DJ online](https://bassroomdjschool.com/curso-dj-online): cómo funcionan las clases online en directo, para alumnos de cualquier país hispanohablante; temario y precios.
+- [Aprender a ser DJ desde cero](https://bassroomdjschool.com/aprender-a-ser-dj-desde-cero): qué necesitas y el camino hasta tu primera sesión, online desde cualquier lugar.
+- [Clases de DJ en Granada](https://bassroomdjschool.com/clases-dj-granada): VIP 1 a 1 presencial en Granada (la única opción presencial); el grupo es online.
 - [Guía del alumno (PDF)](https://bassroomdjschool.com/docs/bassroom-guia-del-alumno.pdf): temario completo, metodología, mentora, formatos y precios.
 
 ## Redes de Mobox
@@ -74,7 +75,7 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 Es la escuela online para futuros DJs. Nace después de años formando alumnos y alumnas, para llegar a más personas apasionadas por el mundo DJ y la música. El objetivo es acompañarte en el proceso de convertirte en DJ.
 
 **¿Para quién es?**
-Desde cero hasta nivel avanzado. Empiezas sin experiencia, con la cabina y el equipo, avanzas por niveles hasta tu primera sesión y terminas con un nivel avanzado y un proyecto final: grabar una sesión de 60 minutos.
+Para cualquier persona que hable español, en España o en cualquier otro país, desde cero hasta nivel avanzado. Empiezas sin experiencia, con la cabina y el equipo, avanzas por niveles hasta tu primera sesión y terminas con un nivel avanzado y un proyecto final: grabar una sesión de 60 minutos.
 
 **¿Cómo son las clases del grupo?**
 La membresía grupal es online, en grupo reducido: un día a la semana, hora y media. En directo puedes preguntar, pausar y seguir la guía paso a paso. En cada bloque presentas ejercicios, mezclas y selecciones, y tu mentora los revisa en directo (ecualización, mezcla y estructura). Hay un chat grupal.
@@ -97,27 +98,13 @@ Mobox (Mónica), DJ profesional, percusionista en vivo y docente, con más de un
 **¿Con qué software se trabaja?**
 Con Rekordbox. El tema 04 cubre la interfaz, la configuración y la importación y exportación musical.
 
-## Preguntas frecuentes: Clases de DJ en Granada
-
-**¿Hay clases de DJ presenciales en Granada?**
-Sí, en el formato VIP 1 a 1: las sesiones individuales pueden ser presenciales en Granada u online, como prefieras. La membresía grupal es solo online. Las plazas VIP son muy limitadas.
-
-**¿Puedo combinar clases presenciales y online?**
-Sí. Los dos planes VIP incluyen acceso gratuito e ilimitado a las clases grupales online, así que puedes tener tu sesión 1 a 1 en Granada y seguir además la clase semanal del grupo.
-
-**¿Cuánto cuestan las clases de DJ en Granada?**
-El VIP quincenal cuesta 130 € al mes (una sesión 1 a 1 cada dos semanas) y el VIP mensual, 230 € al mes (una sesión cada semana). La membresía grupal online cuesta 65 € al mes.
-
-**¿Quién da las clases?**
-Mobox (Mónica Solís Ruiz), DJ nacida en el Albaicín, con más de 14 años en salas y festivales, ocho de ellos como residente en Sala Vogue Granada.
-
-**¿Cómo empiezo?**
-Reservando una llamada informativa gratuita con Mónica. No es una clase ni una matrícula: sirve para contarte cómo funciona la escuela, ver de dónde partes y qué formato te encaja. Empiezas cuando quieras.
-
 ## Preguntas frecuentes: Curso de DJ online
 
 **¿Necesito experiencia previa?**
 No. El curso empieza desde cero, con la cabina y el equipo, y avanza por niveles hasta técnicas avanzadas de mezcla. Si ya pinchas, en la llamada vemos de dónde partes. Más información en aprender a ser DJ desde cero.
+
+**¿Puedo apuntarme si no vivo en España?**
+Sí. El curso es online y en español, así que puedes seguirlo desde cualquier parte de España, desde Latinoamérica o desde cualquier otro país. Solo necesitas conexión a internet, Rekordbox e, idealmente, un controlador. Las clases en directo son en horario de España y quedan grabadas. Lo único que no es online es el VIP presencial, que solo se hace en Granada.
 
 **¿Qué pasa si no puedo conectarme el día de la clase?**
 La clase queda grabada y subida a la web, y puedes verla cuando quieras. El acceso a las grabaciones es permanente.
@@ -144,3 +131,20 @@ Rekordbox. En el tema 04 ves la interfaz, la configuración y cómo importar y e
 
 **¿Cuál es la meta del curso?**
 Grabar una sesión de 60 minutos como proyecto final. Después, el tema 08 te lleva a un nivel avanzado con stems, samplers, retos en directo y capas de 3 y 4 pistas.
+
+## Preguntas frecuentes: Clases de DJ en Granada
+
+**¿Hay clases de DJ presenciales en Granada?**
+Sí, en el formato VIP 1 a 1: las sesiones individuales pueden ser presenciales en Granada u online, como prefieras. Es la única opción presencial: la membresía grupal es siempre online, también si vives en Granada. Las plazas VIP son muy limitadas.
+
+**¿Puedo combinar clases presenciales y online?**
+Sí. Los dos planes VIP incluyen acceso gratuito e ilimitado a las clases grupales online, así que puedes tener tu sesión 1 a 1 en Granada y seguir además la clase semanal del grupo.
+
+**¿Cuánto cuestan las clases de DJ en Granada?**
+El VIP quincenal cuesta 130 € al mes (una sesión 1 a 1 cada dos semanas) y el VIP mensual, 230 € al mes (una sesión cada semana). La membresía grupal online cuesta 65 € al mes.
+
+**¿Quién da las clases?**
+Mobox (Mónica Solís Ruiz), DJ nacida en el Albaicín, con más de 14 años en salas y festivales, ocho de ellos como residente en Sala Vogue Granada.
+
+**¿Cómo empiezo?**
+Reservando una llamada informativa gratuita con Mónica. No es una clase ni una matrícula: sirve para contarte cómo funciona la escuela, ver de dónde partes y qué formato te encaja. Empiezas cuando quieras.
