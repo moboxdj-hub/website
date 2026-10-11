@@ -5,7 +5,7 @@
 - Web: https://bassroomdjschool.com/
 - Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. Base en Granada (España). Clases en grupo online y VIP 1 a 1, presencial u online. Horario de España.
 - Niveles: desde cero (sin experiencia previa) hasta nivel avanzado.
-- Software: Trabajamos con Rekordbox, el estándar de las cabinas, y si usas otro programa, nos adaptamos.
+- Software: Trabajamos con Rekordbox, el estándar de las cabinas. Si usas otro programa (Serato, Traktor, VirtualDJ...), no pasa nada: funcionan prácticamente igual y podrás seguir las clases sin problema.
 - Contacto: moboxdj@gmail.com
 - Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir formato). Se empieza cuando se quiera.
 
@@ -94,7 +94,7 @@ WhatsApp para dudas puntuales, con respuesta en 24-48 horas; una playlist curada
 Mobox (Mónica), DJ profesional, percusionista en vivo y docente, con más de una década de experiencia continua en la música electrónica y más de 14 años en salas y festivales.
 
 **¿Con qué software se trabaja?**
-Trabajamos con Rekordbox, el estándar de las cabinas, y si usas otro programa, nos adaptamos.
+Trabajamos con Rekordbox, el estándar de las cabinas. Si usas otro programa (Serato, Traktor, VirtualDJ...), no pasa nada: funcionan prácticamente igual y podrás seguir las clases sin problema.
 
 ## Preguntas frecuentes: Curso de DJ online
 
@@ -108,7 +108,7 @@ Sí. El curso es online y en español, así que puedes seguirlo desde cualquier 
 La clase queda grabada y subida a la web, y puedes verla cuando quieras. El acceso a las grabaciones es permanente.
 
 **¿Con qué software se trabaja?**
-Trabajamos con Rekordbox, el estándar de las cabinas, y si usas otro programa, nos adaptamos.
+Trabajamos con Rekordbox, el estándar de las cabinas. Si usas otro programa (Serato, Traktor, VirtualDJ...), no pasa nada: funcionan prácticamente igual y podrás seguir las clases sin problema.
 
 **¿Cuánto cuesta y cómo se paga?**
 La membresía grupal cuesta 65 € al mes y se paga a través de la pasarela de pago Stripe. Si quieres clases individuales, el VIP quincenal cuesta 130 € al mes y el VIP mensual, 230 € al mes.
@@ -125,7 +125,7 @@ Sí. El curso está pensado para empezar desde cero, sin experiencia previa: el 
 El primer tema trata precisamente de eso: tipos de equipos, conexiones y cables, y qué equipo es mejor para ti. Antes de comprar nada, coméntalo en la llamada informativa.
 
 **¿Qué software voy a usar?**
-Trabajamos con Rekordbox, el estándar de las cabinas, y si usas otro programa, nos adaptamos.
+Trabajamos con Rekordbox, el estándar de las cabinas. Si usas otro programa (Serato, Traktor, VirtualDJ...), no pasa nada: funcionan prácticamente igual y podrás seguir las clases sin problema.
 
 **¿Cuál es la meta del curso?**
 Primero, grabar tu primera sesión de 60 minutos: con eso ya sabes pinchar. Después, el nivel avanzado te lleva mucho más lejos: stems, samplers, trucos de mezcla, retos en directo y capas de 3 y 4 pistas.
