@@ -20,7 +20,7 @@
         },
         {
           "key": "Content-Disposition",
-          "value": "attachment; filename=\"bassroom-dosier.pdf\""
+          "value": "attachment; filename=\"BASSROOM-guia-del-alumno.pdf\""
         }
       ]
     }
@@ -35,6 +35,11 @@
       "source": "/reservar/",
       "destination": "https://calendar.app.google/jAWiXbuMA2pQXPar5",
       "permanent": false
+    },
+    {
+      "source": "/docs/bassroom-dosier.pdf",
+      "destination": "/docs/bassroom-guia-del-alumno.pdf",
+      "permanent": true
     }
   ]
 }
