@@ -11,7 +11,7 @@
 
 ## Planes y precios
 
-- Membresía grupal online: 65 €/mes. Grupo reducido y por niveles, una clase en directo a la semana de 1,5 horas, grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
+- Membresía grupal online: 65 €/mes. Grupo reducido y por niveles, una clase en directo a la semana de 1 h 30 min con tu grupo de nivel (unas 6 h al mes), grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
 - VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial u online.
 - VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial u online.
 - Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
