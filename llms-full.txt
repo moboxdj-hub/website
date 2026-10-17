@@ -12,8 +12,8 @@
 ## Planes y precios
 
 - Membresía grupal online: 65 €/mes. Grupo reducido y por niveles, una clase en directo a la semana de 1 h 30 min con tu grupo de nivel (unas 6 h al mes), grabada y subida a la web (acceso permanente a la videoteca), chat grupal, revisión de mezclas en directo. Pago por Stripe.
-- VIP quincenal: 130 €/mes. Una sesión 1 a 1 cada dos semanas, presencial u online.
-- VIP mensual: 230 €/mes. Una sesión 1 a 1 cada semana, presencial u online.
+- VIP quincenal: 130 €/mes. Una sesión 1 a 1 de 1 h 30 min cada dos semanas, presencial u online.
+- VIP mensual: 230 €/mes. Una sesión 1 a 1 de 1 h 30 min cada semana, presencial u online.
 - Los dos VIP incluyen: WhatsApp para dudas (respuesta en 24-48 h), playlist curada según tu estilo, grabación de tus sesiones con la mentora, ayuda con el press kit (EPK), recomendación directa para actuaciones y acceso gratuito e ilimitado a las clases grupales. Plazas VIP muy limitadas.
 
 ## Temario por niveles: inicial (temas 1-4), intermedio (temas 5-7) y avanzado (temas 8-10)
@@ -108,7 +108,7 @@ La clase queda grabada y subida a la web, y puedes verla cuando quieras. El acce
 Diez temas en tres niveles. Inicial: la cabina y el equipo, pulso y BPM, descarga de música y Rekordbox. Intermedio: la primera mezcla, cómo preparar una sesión y leer la pista, y la grabación de tus primeros 60 minutos. Avanzado: stems y samplers, capas con 3 y 4 pistas, trucos de cabina, sesiones con distintas energías y retos en directo. Tienes el temario completo en la guía del alumno (PDF).
 
 **¿Qué planes hay y cuánto cuestan?**
-Membresía grupal: 65 € al mes por 1 clase en directo de 1 h 30 min a la semana con tu grupo de nivel (unas 6 h al mes), con pago por Stripe. VIP quincenal: 130 € al mes, una sesión 1 a 1 cada dos semanas. VIP mensual: 230 € al mes, una sesión 1 a 1 cada semana. El 1 a 1 puede ser presencial u online, con plazas muy limitadas.
+Membresía grupal: 65 € al mes por 1 clase en directo de 1 h 30 min a la semana con tu grupo de nivel (unas 6 h al mes), con pago por Stripe. VIP quincenal: 130 € al mes, una sesión 1 a 1 cada dos semanas. VIP mensual: 230 € al mes, una sesión 1 a 1 cada semana. Cada sesión 1 a 1 dura 1 h 30 min y puede ser presencial u online, con plazas muy limitadas.
 
 **¿Qué incluye el VIP además de la sesión 1 a 1?**
 WhatsApp para dudas puntuales, con respuesta en 24-48 horas; una playlist curada según tu estilo; grabación de tus sesiones con tu mentora; ayuda con el press kit; recomendación directa para actuaciones; y acceso gratuito e ilimitado a las clases grupales. Es el mismo paquete en los dos planes VIP.
@@ -134,7 +134,7 @@ La clase queda grabada y subida a la web, y puedes verla cuando quieras. El acce
 Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos funcionan prácticamente igual y podrás seguir las clases sin ningún problema.
 
 **¿Cuánto cuesta y cómo se paga?**
-La membresía grupal cuesta 65 € al mes, incluye 1 clase en directo de 1 h 30 min a la semana con tu grupo de nivel (unas 6 h al mes) y se paga a través de la pasarela de pago Stripe. Si quieres clases individuales, el VIP quincenal cuesta 130 € al mes y el VIP mensual, 230 € al mes.
+La membresía grupal cuesta 65 € al mes, incluye 1 clase en directo de 1 h 30 min a la semana con tu grupo de nivel (unas 6 h al mes) y se paga a través de la pasarela de pago Stripe. Si quieres clases individuales (sesiones 1 a 1 de 1 h 30 min), el VIP quincenal cuesta 130 € al mes y el VIP mensual, 230 € al mes.
 
 **¿Cuándo puedo empezar?**
 Cuando quieras. Primero reserva una llamada informativa gratuita con Mónica: no es una clase ni una matrícula, es para resolver dudas y ver qué plan te encaja.
@@ -162,7 +162,7 @@ Sí, con la opción VIP 1 a 1, presencial en Granada u online. Las clases en gru
 Sí. Los dos planes VIP incluyen acceso gratuito e ilimitado a las clases grupales online, así que puedes tener tu sesión 1 a 1 en Granada y seguir además la clase semanal del grupo.
 
 **¿Cuánto cuestan las clases de DJ en Granada?**
-El VIP quincenal cuesta 130 € al mes (una sesión 1 a 1 cada dos semanas) y el VIP mensual, 230 € al mes (una sesión cada semana). La membresía grupal online cuesta 65 € al mes e incluye 1 clase en directo de 1 h 30 min a la semana con tu grupo de nivel (unas 6 h al mes).
+El VIP quincenal cuesta 130 € al mes (una sesión 1 a 1 cada dos semanas) y el VIP mensual, 230 € al mes (una sesión cada semana); cada sesión dura 1 h 30 min. La membresía grupal online cuesta 65 € al mes e incluye 1 clase en directo de 1 h 30 min a la semana con tu grupo de nivel (unas 6 h al mes).
 
 **¿Quién da las clases?**
 Mobox (Mónica Solís Ruiz), DJ nacida en el Albaicín, con más de 14 años en salas y festivales, ocho de ellos como residente en Sala Vogue Granada.
