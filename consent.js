@@ -1,7 +1,13 @@
 /* BASSROOM: banner de consentimiento + GA4 (solo tras aceptar). Consent Mode v2: todo denegado por defecto. */
 (function () {
-  var GA4_ID = "{{GA4_ID}}";
+  var GA4_ID = ""; // Pon aquí el ID real de GA4 (formato G-XXXXXXX) para activar banner + GA4.
   var KEY = "bassroom_consent_v1";
+  // Mientras no haya un ID real, no hace nada: sin banner, sin GA4 y el enlace "Configurar cookies" sigue oculto.
+  if (!/^G-[A-Z0-9]+$/.test(GA4_ID)) return;
+  document.addEventListener("DOMContentLoaded", function () {
+    var l = document.querySelectorAll("[data-cookie-settings]");
+    for (var i = 0; i < l.length; i++) l[i].hidden = false;
+  });
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
   gtag("consent", "default", {
@@ -11,7 +17,7 @@
   });
   var gaLoaded = false;
   function loadGA() {
-    if (gaLoaded || !GA4_ID || GA4_ID.indexOf("{{") === 0) return;
+    if (gaLoaded) return;
     gaLoaded = true;
     gtag("consent", "update", { analytics_storage: "granted" });
     var s = document.createElement("script");
