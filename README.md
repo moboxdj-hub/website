@@ -1,4 +1,4 @@
-# BASSROOM DJs School — website
+# Bassroom DJs School — website
 
 Static recreation of the BASSROOM landing (https://bassroom-landing.vercel.app/), served at bassroomdjschool.com.
 

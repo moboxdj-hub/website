@@ -1,4 +1,4 @@
-# BASSROOM DJs School: se permite el rastreo a todos los buscadores y asistentes de IA.
+# Bassroom DJs School: se permite el rastreo a todos los buscadores y asistentes de IA.
 User-agent: *
 Allow: /
 
