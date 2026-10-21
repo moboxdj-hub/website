@@ -40,6 +40,17 @@
   ],
   "redirects": [
     {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.bassroomdjschool.com"
+        }
+      ],
+      "destination": "https://bassroomdjschool.com/:path*",
+      "permanent": true
+    },
+    {
       "source": "/reservar",
       "destination": "https://calendar.app.google/jAWiXbuMA2pQXPar5",
       "permanent": false
