@@ -40,6 +40,17 @@
   ],
   "redirects": [
     {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.bassroomdjschool.com"
+        }
+      ],
+      "destination": "https://bassroomdjschool.com/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
