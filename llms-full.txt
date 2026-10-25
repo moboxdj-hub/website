@@ -1,10 +1,10 @@
 # Bassroom DJs School
 
-> Escuela de DJ online en español, para alumnos de España y de cualquier país hispanohablante La dirige la DJ Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones.
+> Escuela de DJ online en español, para alumnos de España y de cualquier país hispanohablante. La dirige la DJ Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox de cero a nivel avanzado, con clases en directo por Zoom, revisión de mezclas y videoteca de grabaciones.
 
 - Web: https://bassroomdjschool.com/
 - Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. Clases en grupo online y VIP 1 a 1, online o presencial en Granada. Horario de España.
-- Niveles: inicial (desde cero, sin experiencia previa), intermedio y avanzado.
+- Niveles: inicial (sin experiencia previa), intermedio y avanzado.
 - Software: Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos funcionan prácticamente igual y podrás seguir las clases sin ningún problema.
 - Contacto: moboxdj@gmail.com
 - Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir plan). Se empieza cuando se quiera.
@@ -22,7 +22,7 @@ Las clases en grupo se organizan por niveles: cada alumno entra en el que le cor
 
 ### Nivel inicial (temas 1-4)
 
-Para quien empieza desde cero. Conoces el equipo, entiendes la música y preparas tu software.
+Para quien empieza sin experiencia previa. Conoces el equipo, entiendes la música y preparas tu software.
 
 1. La cabina y el equipo
 2. Pulso, tempo y BPM
@@ -89,10 +89,10 @@ Mobox (Mónica Solís Ruiz), DJ profesional, percusionista en vivo y docente, na
 ## Preguntas frecuentes: Inicio
 
 **¿Para quién es?**
-Para cualquier persona que hable español, en España o en cualquier otro país, tanto si empiezas desde cero como si ya pinchas. El curso tiene tres niveles: inicial, intermedio y avanzado.
+Para cualquier persona que hable español, en España o en cualquier otro país, tanto si empiezas de cero como si ya pinchas. El curso tiene tres niveles: inicial, intermedio y avanzado.
 
 **¿Necesito experiencia previa?**
-No. El nivel inicial empieza desde cero: la cabina, el equipo y el pulso de la música, paso a paso. Si ya pinchas, entras en el intermedio o el avanzado; lo vemos en la llamada.
+No. El nivel inicial empieza por lo básico: la cabina, el equipo y el pulso de la música, paso a paso. Si ya pinchas, entras en el intermedio o el avanzado; lo vemos en la llamada.
 
 **¿Qué necesito para empezar?**
 Un equipo básico: controladora, cascos y ordenador; más adelante, unos altavoces. Recomendamos AlphaTheta (Pioneer DJ), la marca con la que se trabaja en clase, aunque no es obligatoria. Al principio todo es más teórico, así que antes de comprar nada lo mejor es preguntarlo en la llamada.
@@ -121,7 +121,7 @@ Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos fun
 ## Preguntas frecuentes: Curso de DJ online
 
 **¿Necesito experiencia previa?**
-No. El nivel inicial empieza desde cero, con la cabina y el equipo, y el curso progresa hasta las técnicas de mezcla más complejas. Si ya pinchas, entras en el intermedio o el avanzado; lo vemos en la llamada. Más información en aprender a ser DJ desde cero.
+No. El nivel inicial empieza por lo básico, con la cabina y el equipo, y el curso progresa hasta las técnicas de mezcla más complejas. Si ya pinchas, entras en el intermedio o el avanzado; lo vemos en la llamada. Más información en aprender a ser DJ desde cero.
 
 **¿Puedo apuntarme si no vivo en España?**
 Sí. El curso es online y en español, así que puedes seguirlo desde cualquier país. Solo necesitas conexión a internet, Rekordbox (u otro software de DJ) e, idealmente, un controlador. Las clases son en horario de España y quedan grabadas.

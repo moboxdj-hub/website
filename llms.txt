@@ -1,10 +1,10 @@
 # Bassroom DJs School
 
-> Escuela de DJ online en español, para alumnos de España y de cualquier país hispanohablante La dirige la DJ Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox desde cero hasta nivel avanzado, con clases en directo, revisión de mezclas y videoteca de grabaciones.
+> Escuela de DJ online en español, para alumnos de España y de cualquier país hispanohablante. La dirige la DJ Mobox (Mónica Solís Ruiz). Enseña a pinchar y mezclar con Rekordbox de cero a nivel avanzado, con clases en directo por Zoom, revisión de mezclas y videoteca de grabaciones.
 
 - Web: https://bassroomdjschool.com/
 - Dónde: online, para cualquier persona que hable español, en España, Latinoamérica o cualquier otro país. Clases en grupo online y VIP 1 a 1, online o presencial en Granada. Horario de España.
-- Niveles: inicial (desde cero, sin experiencia previa), intermedio y avanzado.
+- Niveles: inicial (sin experiencia previa), intermedio y avanzado.
 - Software: Trabajamos con Rekordbox, pero si usas otro programa, no te preocupes: todos funcionan prácticamente igual y podrás seguir las clases sin ningún problema.
 - Contacto: moboxdj@gmail.com
 - Cómo empezar: reservar una llamada informativa gratuita con Mónica en https://calendar.app.google/jAWiXbuMA2pQXPar5 (no es una clase ni una matrícula; sirve para resolver dudas y elegir plan). Se empieza cuando se quiera.
@@ -22,7 +22,7 @@ Las clases en grupo se organizan por niveles: cada alumno entra en el que le cor
 
 ### Nivel inicial (temas 1-4)
 
-Para quien empieza desde cero. Conoces el equipo, entiendes la música y preparas tu software.
+Para quien empieza sin experiencia previa. Conoces el equipo, entiendes la música y preparas tu software.
 
 1. La cabina y el equipo
 2. Pulso, tempo y BPM
