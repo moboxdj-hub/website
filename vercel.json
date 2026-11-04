@@ -72,6 +72,16 @@
       "permanent": false
     },
     {
+      "source": "/resena",
+      "destination": "https://g.page/r/CaCKSQTyeRw5EBM/review",
+      "permanent": false
+    },
+    {
+      "source": "/resena/",
+      "destination": "https://g.page/r/CaCKSQTyeRw5EBM/review",
+      "permanent": false
+    },
+    {
       "source": "/docs/bassroom-dosier.pdf",
       "destination": "/docs/bassroom-guia-del-alumno.pdf",
       "permanent": true
