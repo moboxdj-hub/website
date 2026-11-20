@@ -1,7 +1,7 @@
 /* Bassroom DJs School: formulario «Quiero empezar». Sin servicios externos de formularios:
    el envío va a un Apps Script propio de la cuenta de la escuela (correo + hoja de Google). */
 (function () {
-  var ENDPOINT = "__ENDPOINT__";
+  var ENDPOINT = "https://script.google.com/macros/s/AKfycbxHh7IJkmET-IXHB_6zUwUxeRu9ZlfiJWMcBwbWxu3-ppcnLi06ZwvpHqYpJMkeqHA-/exec";
   var PRIV = "/privacidad";
   var overlay, panel, form, lastFocus, started;
 
